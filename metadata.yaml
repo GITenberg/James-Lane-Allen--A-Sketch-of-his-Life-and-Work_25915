@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: Promotional material from the Macmillan company
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25915#James-Lane-Allen--A-Sketch-of-his-Life-and-Work
 gutenberg_issued: '2008-06-27'
 gutenberg_type: Text
 identifiers:
